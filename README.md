@@ -9,7 +9,7 @@ I build end-to-end ML pipelines, fine-tune large language models, and deploy sca
 ## 🔧 Tech Stack
 
 **Languages & Databases**
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `PostgreSQL` MongoDB`
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 **AI & Machine Learning**
 `Hugging Face` `LangChain` `PyTorch` `Neural Networks` `LLMs` `Prompt Engineering`
@@ -23,6 +23,14 @@ I build end-to-end ML pipelines, fine-tune large language models, and deploy sca
 ---
 
 ## 🚀 Featured Projects
+
+### 🌉 HuBridge – AI Opportunity Platform
+> Full-stack platform connecting people to economic opportunities
+- Built an **AI-powered chatbot** to guide users through finding relevant opportunities
+- Developed an **opportunity repository** with AI scoring to curate and rank listings by quality
+- Implemented **guided user flows**, **gamification mechanics**, and a **WhatsApp API** integration
+- Reviewed existing chatbot UX, identified key gaps, and led iterative improvements to response structure and content
+- Delivered full feature set including AI scoring, guided flow, gamification, and live stats
 
 ### 🌿 [Greenwashing Auditor](https://github.com/Floraugo)
 > LLM-based framework to detect deceptive environmental claims in corporate ESG reports
@@ -63,5 +71,5 @@ I build end-to-end ML pipelines, fine-tune large language models, and deploy sca
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flora%20Ugo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ugo-flora-floren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flora%20Ugo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ugo-flora-florence-08059a19a/)
 [![Email](https://img.shields.io/badge/Email-Floramichael04%40gmail.com-red?style=flat&logo=gmail)](mailto:Floramichael04@gmail.com)
