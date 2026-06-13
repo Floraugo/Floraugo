@@ -58,6 +58,20 @@ I build end-to-end ML pipelines, fine-tune large language models, and deploy sca
 - Handled 15% missing values with robust imputation strategies
 - Generated actionable visualisations for business decision-making
 
+### 🤖 AI Chatbot (GPT-4o-mini)
+> Context-aware chatbot with conversation memory
+- Built with OpenAI API and Python
+- [View Project](https://github.com/Floraugo/chatbot-ai)
+
+### 🖼️ Image Classifier (CNN)
+> 77% accuracy on CIFAR-10 with results dashboard
+- Built with TensorFlow and Keras
+- [View Project](https://github.com/Floraugo/image-classifier-cnn)
+
+### 🧠 Sentiment Analyser Web App
+> Live BERT-powered web application
+- Built with HuggingFace and Streamlit
+- [View Project](https://github.com/Floraugo/sentiment-analyser-app)
 ---
 
 ## 📈 Currently
