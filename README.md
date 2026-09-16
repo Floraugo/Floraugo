@@ -24,13 +24,13 @@ I build end-to-end ML pipelines, fine-tune large language models, and deploy sca
 
 ## 🚀 Featured Projects
 
-### 🌉 HuBridge – AI Opportunity Platform
+### 🏙️ [HuBridge – AI Opportunity Platform](https://mipuente.org/)
 > Full-stack platform connecting people to economic opportunities
 - Built an **AI-powered chatbot** to guide users through finding relevant opportunities
 - Developed an **opportunity repository** with AI scoring to curate and rank listings by quality
-- Implemented **guided user flows**, **gamification mechanics**, and a **WhatsApp API** integration
+- Implemented *guided user flows* and contributed to early *WhatsApp API* integration work
 - Reviewed existing chatbot UX, identified key gaps, and led iterative improvements to response structure and content
-- Delivered full feature set including AI scoring, guided flow, gamification, and live stats
+- Delivered core feature set including AI scoring, guided flow, and live stats
 
 ### 🌿 [Greenwashing Auditor](https://github.com/Floraugo)
 > LLM-based framework to detect deceptive environmental claims in corporate ESG reports
